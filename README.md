@@ -7,5 +7,6 @@ I am currently in 4th semester of BSIT.
 
 Projects;
 -Dynamic Quiz Generator using Object-Oriented approch in C++.
--Snake Game using OpenGL.
+-Snake Game, Bubble Shooter game using OpenGL.
 -Learning World SRS using SDLC.
+-Created Magzine in MSword.
